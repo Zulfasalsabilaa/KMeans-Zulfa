@@ -4,6 +4,3 @@ scikit-learn
 streamlit
 matplotlib
 seaborn
-warnings
-xgboost
-plotly
