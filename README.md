@@ -85,6 +85,7 @@ Untuk melihat sebaran data pada dataset ini kita dapat memanggilnya dengan cara.
     scatters('BALANCE_FREQUENCY', 'ONEOFF_PURCHASES')
 
 ![Alt text](image-1.png)
+
 EDA yang ke dua 
 
     plt.figure(figsize=(22,6))
@@ -93,18 +94,21 @@ EDA yang ke dua
     plt.yticks(fontsize=12)
     ax.bar_label(ax.containers[0], label_type='edge')
 ![Alt text](image-2.png)
+
 EDA yang Ke Tiga 
 
     plt.figure(figsize=(12,8))
     sns.histplot(data=df,x=df.PAYMENTS,kde=True,stat='count')
     plt.show()  
 ![Alt text](image-3.png)
+
 EDA yang ke empat 
 
     plt.figure(figsize=(12,8))
     sns.histplot(data=df,x=df.BALANCE_FREQUENCY,kde=True,stat='count')
     plt.show() 
 ![Alt text](image-4.png)
+
 EDA yang ke lima 
 
     plt.figure(figsize=(12,8))
@@ -115,6 +119,7 @@ EDA yang ke lima
     plt.title("Frekuensi pelunasan oleh nasabah dalam bentuk persen", fontsize=15)
     plt.show()
 ![Alt text](image-5.png)
+
 ## Modeling
 Sebelumnya mari kita import library yang nanti akan digunakan.
 
