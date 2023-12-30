@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 import seaborn as sns
 from sklearn.cluster import KMeans
-from plotly import graph_objects
 
 df = pd.read_csv('CC GENERAL.csv')
 
