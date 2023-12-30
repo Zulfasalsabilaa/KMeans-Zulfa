@@ -1,12 +1,12 @@
-##Laporan Proyek Machine Learning
+## Laporan Proyek Machine Learning
 
-##Nama : zulfa salsabila adzkia
+## Nama : zulfa salsabila adzkia
 
-##Nim : 211351153
+## Nim : 211351153
 
-##Kelas : Pagi B
+## Kelas : Pagi B
 
-##Domain Proyek
+## Domain Proyek
 
 Kasus ini untuk mengembangkan segmentasi pelanggan untuk menentukan strategi pemasaran. sampel Dataset merangkum perilaku penggunaan sekitar 9000 pemegang kartu kredit aktif selama 6 bulan terakhir. 
 
@@ -20,7 +20,7 @@ Pemahaman tentang bagaimana mengembangkan segmentasi pelanggan untuk menentukan 
 
 Bagian Laporan ini mencakup :
 
-##Problem Statements
+## Problem Statements
 
 Menjelaskan pernyataan masalah latar belakang :
 
@@ -34,7 +34,7 @@ Rubrik/Kriteria Tambahan (Opsional):
 
 Menambahkan bagian “Solution Statement” yang menguraikan cara untuk meraih goals. Bagian ini dibuat dengan ketentuan sebagai berikut:
 
-##Solution statements
+## Solution statements
 
 * Pengembangan Platfrom segmentasi nasabah yang menggunakan kartu kredit untuk strategi marketing. Solusi pertama adalah mengembangkan platfrom yang mengintegrasikan segmentasi nasabah yang menggunakan kartu kredit dari Kaggle.com untuk memberikan pengguna akses cepat dan mudah ke informasi tentang segmentasi nasabah yang menggunakan kartu kredit untuk strategi marketing.
 * Model yang dihasilkan dari dataset itu menggunakan metode KMeans.
@@ -171,7 +171,7 @@ Visualisasi Clustring
                     size = 20, weight='bold',
                     color = 'black')
 
-##Deployment
+## Deployment
 https://kmeans-zulfa-guaqosqneekbuk4shsgnxs.streamlit.app/
 
 ![Alt text](image.png)
