@@ -1,9 +1,13 @@
 ##Laporan Proyek Machine Learning
+
 ##Nama : zulfa salsabila adzkia
+
 ##Nim : 211351153
+
 ##Kelas : Pagi B
 
 ##Domain Proyek
+
 Kasus ini untuk mengembangkan segmentasi pelanggan untuk menentukan strategi pemasaran. sampel Dataset merangkum perilaku penggunaan sekitar 9000 pemegang kartu kredit aktif selama 6 bulan terakhir. 
 
 Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
@@ -11,10 +15,13 @@ Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus b
 Format Referensi: https://www.researchgate.net/profile/Azad-Abdulhafedh/publication/349094412_Incorporating_K-means_Hierarchical_Clustering_and_PCA_in_Customer_Segmentation/links/601f494292851c4ed554724d/Incorporating-K-means-Hierarchical-Clustering-and-PCA-in-Customer-Segmentation.pdf 
 
 ##Business Understanding 
+
 Pemahaman tentang bagaimana mengembangkan segmentasi pelanggan untuk menentukan strategi pemasaran untuk sebuah kartu kredit aktif.
 
 Bagian Laporan ini mencakup :
+
 ##Problem Statements
+
 Menjelaskan pernyataan masalah latar belakang :
 
 * Bagaimana cara segmentasi nasabah untuk strategi marketing
@@ -26,7 +33,9 @@ Menjelaskan tujuan dari pernyataan masalah :
 Rubrik/Kriteria Tambahan (Opsional):
 
 Menambahkan bagian “Solution Statement” yang menguraikan cara untuk meraih goals. Bagian ini dibuat dengan ketentuan sebagai berikut:
+
 ##Solution statements
+
 * Pengembangan Platfrom segmentasi nasabah yang menggunakan kartu kredit untuk strategi marketing. Solusi pertama adalah mengembangkan platfrom yang mengintegrasikan segmentasi nasabah yang menggunakan kartu kredit dari Kaggle.com untuk memberikan pengguna akses cepat dan mudah ke informasi tentang segmentasi nasabah yang menggunakan kartu kredit untuk strategi marketing.
 * Model yang dihasilkan dari dataset itu menggunakan metode KMeans.
 ## Data Understanding
